@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanezhiu&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanezhiu&show_icons=true&theme=graywhite)
 
