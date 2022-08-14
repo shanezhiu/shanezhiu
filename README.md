@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PHP/Golang/Java.
-- 🌱 I’m currently learning Rust-lang.
+- 🔭 I’m currently learning Rust-lang.
+- 🔭 I'm interesting in networing programming now.
 
 <!--
 **shanezhiu/shanezhiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
