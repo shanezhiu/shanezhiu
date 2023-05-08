@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PHP/Golang/Java.
-- 🔭 I’m currently learning Rust-lang.
+- 🔭 I’m currently learning Rust-lang/BigData/OS-Design.
 - 🔭 I'm interesting in network programming now.
 
 <!--
